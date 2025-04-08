@@ -34,7 +34,7 @@
 
 ### Photography
 
-- ✨ [GIMP](https://www.gimp.org) *<img src="resources/icons/win11.png" alt="img" width="15"/> Windows, <img src="resources/icons/apple.png" alt="img" width="15"/> Mac, <img src="resources/icons/linux.png" alt="img" width="15"/> Linux)*
+- ✨ [GIMP](https://www.gimp.org) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
