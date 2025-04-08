@@ -22,7 +22,7 @@
 - <img src="resources/icons/ios.png" alt="img" width="17"/> - iOS (Mobile)
 - <img src="resources/icons/andrd.png" alt="img" width="17"/> - Android (Mobile)
 - <img src="resources/icons/chrome.png" alt="img" width="17"/> - Browser __*__
-> __*__NOTE: does not specify which exact browsers are tested
+> __*__ NOTE: does not specify which exact browsers are tested
 
 
 **Alternatives to:**
