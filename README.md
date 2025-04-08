@@ -46,7 +46,7 @@
 ### Photography
 
 - ✨ [GIMP](https://www.gimp.org) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ (💵) [Photopea](https://www.photopea.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ (🔒) [Pixlr](https://pixlr.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
