@@ -271,4 +271,4 @@
 
 # XdanielArt's Image
 
-<img src="resources/media/GPkD9w0W8AA8xjR.jpeg" alt="img" width="200"/>
+<img src="resources/media/GPkD9w0W8AA8xjR.jpeg" alt="img" width="400"/>
