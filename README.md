@@ -73,13 +73,13 @@ __ORIGINAL DESCRIPTION__:
 ### Painting
 
 - ✨ [Krita](https://krita.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/andrd.png" alt="img" width="17"/>  Android)*
-- ✨ [MyPaint](https://mypaint.app) *(Windows, Mac, Linux)*
-- ⭐️ [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
-- ⭐️ [💵] [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
-- ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac)*
-- ⭐️ [Medibang](https://medibangpaint.com) *(Windows, Mac, Android)*
-- 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
-- 💵 [Corel Painter](https://www.painterartist.com) *(Windows, Mac)*
+- ✨ [MyPaint](https://mypaint.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [IbisPaint](https://ibispaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- ⭐️ [💵] [Sketchbook](https://www.sketchbook.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- ⭐️ [FireAlpaca](https://firealpaca.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [Medibang](https://medibangpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
+- 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Corel Painter](https://www.painterartist.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows __*__, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(Windows, Mac)*
 - 💵 [🔒] [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(Windows)*
@@ -88,6 +88,8 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Infinite Studio](https://www.infinitestudio.art) *(Android, iOS)*
 - 💵 [Realistic Paint Studio](https://realisticpaint.com) *(Windows, Mac, iOS)*
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(Windows, Mac, Android, iOS)*
+
+> __*__ The newest version of this software doesn't support the following operating system anymore.
 
 ### Pixel art
 
