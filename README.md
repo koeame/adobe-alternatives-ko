@@ -54,7 +54,7 @@
 - ⭐️ [Paint.NET](https://www.getpaint.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [🔒, **AI**] [Pixlr](https://pixlr.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 💵 [PaintShop Pro](https://www.paintshoppro.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [ **AI**  ] [PaintShop Pro](https://www.paintshoppro.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [Photoline](https://www.pl32.com) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Acorn](https://flyingmeat.com/acorn) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
