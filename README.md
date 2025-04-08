@@ -1,4 +1,5 @@
-<div align="center"> # Updated Adobe Alternatives
+<div align="center">
+# Updated Adobe Alternatives
 
 This list has been taken from [KenneyNL](https://github.com/KenneyNL) on GitHub and [@XdanielArt](https://x.com/XdanielArt) on X. The purpose of copying and updating this repo is to save the record and update any information in case the following repo was lost.
 
