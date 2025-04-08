@@ -126,8 +126,8 @@ __ORIGINAL DESCRIPTION__:
 - ⭐️ [Boxy SVG](https://boxy-svg.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ [🔒] [Linearity Curve](https://www.linearity.io/curve) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [CorelDRAW](https://www.coreldraw.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, Mac, iOS)*
-- 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
+- 💵 [Affinity Designer](https://affinity.serif.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 🔒 [Corel Vector](https://app.corelvector.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 
 
