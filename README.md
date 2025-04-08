@@ -166,8 +166,8 @@ __ORIGINAL DESCRIPTION__:
 ## InDesign
 
 - ✨ [Scribus](https://www.scribus.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [Laidout](https://laidout.org) *(Linux)*
-- 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(Windows, Mac, iOS)*
+- ✨ [Laidout](https://laidout.org) *(<img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## Substance
