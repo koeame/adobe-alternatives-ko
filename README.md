@@ -33,7 +33,7 @@ __ORIGINAL DESCRIPTION__:
 - <img src="resources/icons/ios.png" alt="img" width="17"/> - iOS (Mobile)
 - <img src="resources/icons/andrd.png" alt="img" width="17"/> - Android (Mobile)
 - <img src="resources/icons/chrome.png" alt="img" width="17"/> - Browser __*__
-- <img src="resources/icons/chrome.png" alt="img" width="17"/> - Steam __**__
+- <img src="resources/icons/steam.png" alt="img" width="17"/> - Steam __**__
 > __*__ does not specify which exact browsers are tested
 
 > __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. Refer to [ProtonDB](https://www.protondb.com/explore) or their official websites for more information regarding compatibility.
