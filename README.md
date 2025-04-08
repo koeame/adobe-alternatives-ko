@@ -1,13 +1,16 @@
 # Updated Adobe Alternatives
 
-This list has been taken from [KenneyNL](https://github.com/KenneyNL) on GitHub and [@XdanielArt](https://x.com/XdanielArt) on X. The purpose of copying and updating this repo is to save the record and update any information in case the following repo was lost. [You may also find the original screenshotted repo here in case it mysteriously gets deleted off the internet. Not likely to happen at all, but eh.](https://web.archive.org/web/20250407014806/https://github.com/KenneyNL/Adobe-Alternatives)
+<p style="text-align: center;">This list has been taken from [KenneyNL](https://github.com/KenneyNL) on GitHub and [@XdanielArt](https://x.com/XdanielArt) on X. The purpose of copying and updating this repo is to save the record and update any information in case the following repo was lost. [You may also find the original screenshotted repo here in case it mysteriously gets deleted off the internet. Not likely to happen at all, but eh.](https://web.archive.org/web/20250407014806/https://github.com/KenneyNL/Adobe-Alternatives)
 
-> You may also read the original README.md [here](). If you want a read-only version of this repo, you can find it [here]().
+You may also read the original README.md [here](). If you want a read-only version of this repo, you can find it [here]().
 
-> Credit goes to KenneyNL, XdanielArt, and their contributors for assembling and updating the list. I (ko) am just making it look pretty and adding more to the list. Like the original repo, feel free to open issues, pull requests, and/or make images for easier sharing.
+Credit goes to KenneyNL, XdanielArt, and their contributors for assembling and updating the list. I (ko) am just making it look pretty and adding more to the list. Like the original repo, feel free to open issues, pull requests, and/or make images for easier sharing.
 
-> __ORIGINAL DESCRIPTION__:
+__ORIGINAL DESCRIPTION__:
+
 > A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://x.com/XdanielArt) and improved upon by the community. Feel free to open issues or pull requests, or create an image (for easy sharing) out of the data. The lists are always ordered with the free & open source option on top, but it might not be the best alternative depending on your use case.
+
+</p>
 
 **Legend:**
 
