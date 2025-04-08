@@ -1,12 +1,3 @@
-- <img src="resources/icons/win11.png" alt="img" width="17"/> Windows,
-- <img src="resources/icons/apple.png" alt="img" width="17"/> Mac,
-- <img src="resources/icons/linux.png" alt="img" width="17"/> Linux,
-- <img src="resources/icons/ios.png" alt="img" width="17"/> iOS,
-- <img src="resources/icons/andrd.png" alt="img" width="17"/> Android,
-- <img src="resources/icons/chrome.png" alt="img" width="17"/> Browser,
-- <img src="resources/icons/steam.png" alt="img" width="17"/> Steam,
-- <img src="resources/icons/raspberry.png" alt="img" width="17"/> Raspberry Pi,
-
 <div align="center">
 <h1> Updated Adobe Alternatives </h1>
 
