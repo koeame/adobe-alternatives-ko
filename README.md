@@ -111,9 +111,9 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [LibreSprite](https://libresprite.github.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [GrafX2](http://grafx2.chez.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/amiga.png" alt="img" width="17"/> AmigaOS, 🍁
  Haiku, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*<sup>[2]</sup>
-- ✨ [Pixilart](https://www.pixilart.com/draw) *(Browser, Android, iOS)*
-- ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(Browser)*
-- ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(Windows, Mac)*
+- ✨ [Pixilart](https://www.pixilart.com/draw) *(- <img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(Windows)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows)*
@@ -123,7 +123,7 @@ __ORIGINAL DESCRIPTION__:
 
 > __1__ - You can install Pixelorama on [snapcraft.io](https://snapcraft.io/install/pixelorama/raspbian) from Raspbian or on [pi-apps.io](https://pi-apps.io/install-app/install-pixelorama-on-raspberry-pi/).
 
-> __2__ - GrafX2 is a portable pixel art editor, and has just about packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement. 
+> __2__ - GrafX2 is a portable pixel art editing software, and has just about packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement. 
 
 ## Illustrator
 
