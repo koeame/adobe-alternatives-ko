@@ -98,7 +98,7 @@ __ORIGINAL DESCRIPTION__:
 
 ### Pixel art
 
-- ✨ [💵] [Aseprite](https://www.aseprite.org) *(Windows, Mac, Linux)*
+- ✨ [💵] [Aseprite](https://www.aseprite.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/raspberry.png" alt="img" width="17"/> Raspberry Pi <sup>[1]</sup> )*
 - ✨ [PixiEditor](https://pixieditor.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - ✨ [LibreSprite](https://libresprite.github.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
@@ -122,103 +122,105 @@ __ORIGINAL DESCRIPTION__:
 
 ### General
 
-- ✨ [Inkscape](https://inkscape.org) *(Windows, Mac, Linux)*
-- ⭐️ [Boxy SVG](https://boxy-svg.com) *(Browser)*
-- ⭐️ [🔒] [Linearity Curve](https://www.linearity.io/curve) *(Mac, iOS)*
-- 💵 [CorelDRAW](https://www.coreldraw.com) *(Windows, Mac)*
+- ✨ [Inkscape](https://inkscape.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [Boxy SVG](https://boxy-svg.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ⭐️ [🔒] [Linearity Curve](https://www.linearity.io/curve) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [CorelDRAW](https://www.coreldraw.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Affinity Designer](https://affinity.serif.com) *(Windows, Mac, iOS)*
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(Windows)*
-- 🔒 [Corel Vector](https://app.corelvector.com) *(Browser)*
+- 🔒 [Corel Vector](https://app.corelvector.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+
+
 
 ### Live trace
 
-- ✨ [SVGcode](https://svgco.de) *(Browser)*
-- ✨ [VTracer](https://www.visioncortex.org/vtracer) *(Browser, Windows, Mac, Linux)*
+- ✨ [SVGcode](https://svgco.de) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ✨ [VTracer](https://www.visioncortex.org/vtracer) *(Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [CR8tracer](http://cr8.netfirms.com/tracer.html) *(Windows)*
-- 💵 [Vector Magic](https://vectormagic.com) *(Windows, Mac, Linux)*
+- 💵 [Vector Magic](https://vectormagic.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 
 ## Animate
 
 ### General
 
-- ✨ [Tahoma2D](https://tahoma2d.org) *(Windows, Mac, Linux)*
-- ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
-- ✨ [OpenToonz](https://opentoonz.github.io/e) *(Windows, Mac, Linux)*
-- ✨ [Wick Editor](https://www.wickeditor.com) *(Browser)*
-- ✨ [Synfig](https://www.synfig.org) *(Windows, Mac, Linux)*
-- ✨ [Glaxnimate](https://glaxnimate.mattbas.org) *(Windows, Mac, Linux)*
-- ⭐️ [🔒] [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
+- ✨ [Tahoma2D](https://tahoma2d.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [OpenToonz](https://opentoonz.github.io/e) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Wick Editor](https://www.wickeditor.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ✨ [Synfig](https://www.synfig.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Glaxnimate](https://glaxnimate.mattbas.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [🔒] [Linearity Move](https://www.linearity.io/move) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [CACANi](https://cacani.sg) *(Windows)*
-- 💵 [TVPaint](https://tvpaint.com) *(Windows, Mac, Linux, Android)*
-- 💵 [Toon Boom](https://www.toonboom.com) *(Windows, Mac, Linux)*
-- 💵 [Clip Studio Paint](https://www.clipstudio.net) *(Windows, Mac)*
-- 💵 [Moho](https://moho.lostmarble.com) *(Windows, Mac)*
-- 💵 [Tumult Hype](https://tumult.com/hype) *(Mac)*
+- 💵 [TVPaint](https://tvpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, Android)*
+- 💵 [Toon Boom](https://www.toonboom.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [Clip Studio Paint](https://www.clipstudio.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Moho](https://moho.lostmarble.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Tumult Hype](https://tumult.com/hype) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ### Honorable mentions
 
-- ✨ [Krita](https://krita.org) *(Windows, Mac, Linux, Android)*
-- ✨ [Pencil2D](https://www.pencil2d.org) *(Windows, Mac, Linux)*
-- ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac)*
+- ✨ [Krita](https://krita.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, Android)*
+- ✨ [Pencil2D](https://www.pencil2d.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [FireAlpaca](https://firealpaca.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## InDesign
 
-- ✨ [Scribus](https://www.scribus.net) *(Windows, Mac, Linux)*
+- ✨ [Scribus](https://www.scribus.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Laidout](https://laidout.org) *(Linux)*
 - 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(Windows, Mac, iOS)*
-- 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(Windows, Mac)*
+- 💵 [QuarkXPress](https://www.quark.com/products/quarkxpress) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## Substance
 
 ### Designer
 
-- ✨ [Material Maker](https://www.materialmaker.org) *(Windows, Mac, Linux)*
-- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
-- ⭐️ [InstaMAT](https://instamaterial.com) *(Windows, Mac)*
+- ✨ [Material Maker](https://www.materialmaker.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- ⭐️ [InstaMAT](https://instamaterial.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ### Painter
 
-- ✨ [ArmorPaint](https://armorpaint.org) *(Windows, Mac, Linux, iOS, Android)*
-- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(Windows, Mac)*
-- 💵 [3DCoat](https://3dcoat.com) *(Windows, Mac, Linux)*
-- 💵 [or 🔒] [Marmoset Toolbag](https://marmoset.co/toolbag) *(Windows, Mac)*
+- ✨ [ArmorPaint](https://armorpaint.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
+- ⭐️ [Quixel Mixer](https://quixel.com/mixer) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [3DCoat](https://3dcoat.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [or 🔒] [Marmoset Toolbag](https://marmoset.co/toolbag) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## Lightroom
 
-- ✨ [RawTherapee](https://www.rawtherapee.com) *(Windows, Mac, Linux)*
-- ✨ [Darktable](https://www.darktable.org) *(Windows, Mac, Linux)*
-- ✨ [digiKam](https://www.digikam.org) *(Windows, Mac, Linux)*
-- 💵 [or 🔒] [Darkroom](https://darkroom.co) *(Mac, iOS)*
-- 💵 [On1](https://www.on1.com) *(Windows, Mac, Linux)*
-- 💵 [FastRawViewer](https://www.fastrawviewer.com) *(Windows, Mac)*
-- 💵 [Capture One](https://www.captureone.com) *(Windows, Mac)*
-- 💵 [Dx0 PhotoLab](https://www.dxo.com/dxo-photolab) *(Windows, Mac)*
-- 💵 [Luminar Neo](https://skylum.com/luminar) *(Windows, Mac)*
-- 💵 [Aurora HDR](https://skylum.com/aurora-photo-editor) *(Windows, Mac)*
+- ✨ [RawTherapee](https://www.rawtherapee.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Darktable](https://www.darktable.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [digiKam](https://www.digikam.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [or 🔒] [Darkroom](https://darkroom.co) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [On1](https://www.on1.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [FastRawViewer](https://www.fastrawviewer.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Capture One](https://www.captureone.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Dx0 PhotoLab](https://www.dxo.com/dxo-photolab) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Luminar Neo](https://skylum.com/luminar) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Aurora HDR](https://skylum.com/aurora-photo-editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## XD
 
-- ✨ [Penpot](https://penpot.app) *(Windows, Mac, Linux)*
+- ✨ [Penpot](https://penpot.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
-- ⭐️ [Lunacy](https://icons8.com/lunacy) *(Windows, Mac, Linux)*
+- ⭐️ [Lunacy](https://icons8.com/lunacy) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [🔒] [Figma](https://www.figma.com)  *(Browser, Windows, Mac)*
-- 💵 [Sketch](https://www.sketch.com) *(Mac)*
-- 💵 [Origami Studio](https://origami.design) *(Mac)*
-- 💵 [Axure RP](https://www.axure.com) *(Windows, Mac)*
-- 💵 [Principle](https://principleformac.com) *(Mac)*
-- 🔒 [Framer](https://www.framer.com) *(Windows, Mac, Linux)*
+- 💵 [Sketch](https://www.sketch.com) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Origami Studio](https://origami.design) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Axure RP](https://www.axure.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Principle](https://principleformac.com) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 🔒 [Framer](https://www.framer.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 
 ## Premiere
 
-- ✨ [Olive](https://olivevideoeditor.org) *(Windows, Mac, Linux)*
-- ✨ [Kdenlive](https://kdenlive.org) *(Windows, Mac, Linux)*
-- ✨ [OpenShot](https://www.openshot.org) *(Windows, Mac, Linux)*
-- ✨ [Shotcut](https://www.shotcut.org) *(Windows, Mac, Linux)*
-- ⭐️ [💵] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(Windows, Mac, Linux)*
-- 💵 [or 🔒] [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(Windows)*
-- 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(Mac, iOS)*
-- 🔒 [Kapwing](https://www.kapwing.com) *(Browser)*
-- 🔒 [CapCut](https://www.capcut.com) *(Browser, Windows, Android, iOS)*
+- ✨ [Olive](https://olivevideoeditor.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Kdenlive](https://kdenlive.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [OpenShot](https://www.openshot.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Shotcut](https://www.shotcut.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [💵] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [or 🔒] [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 🔒 [Kapwing](https://www.kapwing.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- 🔒 [CapCut](https://www.capcut.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 
 ## Acrobat
 
@@ -232,80 +234,81 @@ __ORIGINAL DESCRIPTION__:
 
 ### Reader
 
-- ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
-- ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
-- ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
+- ✨ [Zathura](https://pwmt.org/projects/zathura) *(<img src="resources/icons/linux.png" alt="img" width="17"/> Linux*)
+- ✨ [Sioyek](https://sioyek.info) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, Linux)*
+- ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [💵, 🔒] [Obsidian](https://obsidian.md/) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 
 ## Bridge
 
-- ⭐️ [XnView MP](https://www.xnview.com/en/xnviewmp) *(Windows, Mac, Linux)*
-- 🔒 [Anchorpoint](https://www.anchorpoint.app) *(Windows, Mac)*
+- ⭐️ [XnView MP](https://www.xnview.com/en/xnviewmp) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 🔒 [Anchorpoint](https://www.anchorpoint.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## Dreamweaver
 
-- ✨ [Netbeans](https://netbeans.apache.org) *(Windows, Mac, Linux)*
-- ✨ [VSCodium](https://vscodium.com) *(Windows, Mac, Linux)*
-- ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(Windows, Mac, Linux)*
+- ✨ [Netbeans](https://netbeans.apache.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [VSCodium](https://vscodium.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [PageFabric](https://pagefabric-app.com) *(Windows)*
-- 💵 [🔒] [Nova](https://nova.app) *(Mac)*
-- 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(Windows, Mac, Linux)*
-- 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(Windows, Mac, Linux)*
+- 💵 [🔒] [Nova](https://nova.app) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 
 ## Audition
 
 ### General
 
-- ✨ [Audacity](https://www.audacityteam.org) *(Windows, Mac, Linux)*
-- ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(Windows, Mac, Linux)*
-- ⭐️ [💵] [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(Windows, Mac, Linux)*
-- 💵 [GoldWave](http://www.goldwave.com) *(Windows, Mac, Linux)*
-- 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(Windows, Mac)*
-- 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(Windows, Mac)*
+- ✨ [Audacity](https://www.audacityteam.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [💵] [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [GoldWave](http://www.goldwave.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ### DAWs
 
-- ✨ (💵, 🔒) [Ardour](https://ardour.org) *(Windows, Mac, Linux)*
-- ✨ [LMMS](https://lmms.io) *(Windows, Mac, Linux)*
-- ⭐️ [Cakewalk](https://www.bandlab.com/products/cakewalk)  *(Windows)*
-- ⭐️ [GarageBand](https://www.apple.com/mac/garageband) *(Mac)*
-- ⭐️ (💵) [Tracktion](https://www.tracktion.com) *(Windows, Mac, Linux)*
-- ⭐️ (🔒) [Pro Tools](https://www.avid.com/pro-tools) *(Windows, Mac)*
-- 💵 [Reaper](https://www.reaper.fm) *(Windows, Mac, Linux)*
-- 💵 [Logic Pro](https://www.apple.com/logic-pro) *(Mac, iOS)*
-- 💵 [Ableton Live](https://www.ableton.com/en/live) *(Windows, Mac)*
-- 💵 [FL Studio](https://www.image-line.com/fl-studio) *(Windows, Mac)*
+- ✨ (💵, 🔒) [Ardour](https://ardour.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [LMMS](https://lmms.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [Cakewalk](https://www.bandlab.com/products/cakewalk)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- ⭐️ [GarageBand](https://www.apple.com/mac/garageband) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- ⭐️ (💵) [Tracktion](https://www.tracktion.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ (🔒) [Pro Tools](https://www.avid.com/pro-tools) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Reaper](https://www.reaper.fm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [Logic Pro](https://www.apple.com/logic-pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Ableton Live](https://www.ableton.com/en/live) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [FL Studio](https://www.image-line.com/fl-studio) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [FL Studio Mobile](https://www.image-line.com/fl-studio-mobile) *(Windows, Mac, Android, iOS)*
-- 💵 [Bitwig](https://www.bitwig.com) *(Windows, Mac, Linux)*
-- 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab) *(Windows, Mac)*
-- 💵 [Steinberg Cubase](https://www.steinberg.net/cubase) *(Windows, Mac)*
-- 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo) *(Windows, Mac)*
-- 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(Windows, Mac)*
-- 🔒 [Cakewalk Next](https://www.cakewalk.com) *(Windows)*
-- 🔒 [Cakewalk Sonar](https://www.bandlab.com) *(Windows)*
+- 💵 [Bitwig](https://www.bitwig.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Steinberg Cubase](https://www.steinberg.net/cubase) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 🔒 [Cakewalk Next](https://www.cakewalk.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 🔒 [Cakewalk Sonar](https://www.bandlab.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 
 ## After Effects
 
 ### Compositing and effects
 
-- ✨ [Natron](https://natrongithub.github.io) *(Windows, Mac, Linux)*
-- ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(Windows, Mac, Linux)*
-- 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(Windows)*
-- ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(Windows, Mac, Linux)*
+- ✨ [Natron](https://natrongithub.github.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 
 ### Motion graphics
 
-- ✨ [Blender](https://www.blender.org) *(Windows, Mac, Linux)*
-- ✨ [Friction](https://friction.graphics)  *(Windows, Linux)*
-- ✨ [AstroFox](https://astrofox.io) *(Windows, Mac, Linux)*
-- ⭐️ (🔒) [Fable](https://www.fable.app)  *(Browser)*
-- ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(Mac, iOS)*
-- 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(Mac, iOS)*
-- 🔒 [Cavalry](https://cavalry.scenegroup.co) *(Windows, Mac)*
-- 🔒 [Rive](https://rive.app) *(Browser, Windows, Mac)*
-- 🔒 [Jitter](https://jitter.video) *(Browser)*
+- ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Friction](https://friction.graphics)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [AstroFox](https://astrofox.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ (🔒) [Fable](https://www.fable.app)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 🔒 [Cavalry](https://cavalry.scenegroup.co) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 🔒 [Rive](https://rive.app) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 🔒 [Jitter](https://jitter.video) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+
 
 
 # XdanielArt's Image
