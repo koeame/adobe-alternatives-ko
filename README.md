@@ -13,6 +13,7 @@
 - ⭐️ = Free of charge
 - 💵 = Single purchase
 - 🔒 = Subscription for more functions
+- <sup>AI</sup> = Programs using AI-Generated LLM's
 
 **Operating Systems:**
 
@@ -58,16 +59,16 @@
 
 ### Painting
 
-- ✨ [Krita](https://krita.org) *(Windows, Mac, Linux, Android)*
+- ✨ [Krita](https://krita.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/andrd.png" alt="img" width="17"/>  Android)*
 - ✨ [MyPaint](https://mypaint.app) *(Windows, Mac, Linux)*
 - ⭐️ [IbisPaint](https://ibispaint.com) *(Windows, Android, iOS)*
-- ⭐️ (💵) [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
+- ⭐️ [💵] [Sketchbook](https://www.sketchbook.com) *(Windows, Mac, Android, iOS)*
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(Windows, Mac)*
 - ⭐️ [Medibang](https://medibangpaint.com) *(Windows, Mac, Android)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(Windows, Mac, iOS)*
 - 💵 [Corel Painter](https://www.painterartist.com) *(Windows, Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(Windows, Mac)*
-- 💵 (🔒) [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
+- 💵 [🔒] [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(Windows)*
 - 💵 [Procreate](https://procreate.com) *(iOS)*
 - 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
