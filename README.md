@@ -9,6 +9,8 @@ You may also read the original README.md [here](). If you want a read-only versi
 
 Credit goes to KenneyNL, XdanielArt, and their contributors for assembling and updating the list. I (ko) am just making it look pretty and adding more to the list. Like the original repo, feel free to open issues, pull requests, and/or make images for easier sharing.
 
+**DISCLAIMER:** Some of the software listed may no longer have support or may even possibly break.**
+
 __ORIGINAL DESCRIPTION__:
 
 > A list of alternatives for Adobe software, originally collected by [@XdanielArt](https://x.com/XdanielArt) and improved upon by the community. Feel free to open issues or pull requests, or create an image (for easy sharing) out of the data. The lists are always ordered with the free & open source option on top, but it might not be the best alternative depending on your use case.
@@ -35,8 +37,6 @@ __ORIGINAL DESCRIPTION__:
 > __*__ does not specify which exact browsers are tested
 
 > __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. Refer to [ProtonDB](https://www.protondb.com/explore) or their official websites for more information.
-
-> **DISCLAIMER:** Some of the software listed may no longer have support or may even possibly break.
 
 
 **Alternatives to:**
