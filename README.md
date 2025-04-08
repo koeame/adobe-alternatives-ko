@@ -87,6 +87,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [MyPaint](https://mypaint.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [IbisPaint](https://ibispaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - ⭐️ [💵] [Sketchbook](https://www.sketchbook.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Medibang](https://medibangpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
@@ -101,7 +102,8 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [Black](https://store.steampowered.com/app/233680/Black_Ink/) [Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 
-> __1__ - The newest version of Corel Painter (2023) doesn't support the marked operating system anymore.
+
+> __1__ - The newest version of Corel Painter (2023) doesn't support the marked operating system anymore as of April 2025.
 
 ### Pixel art
 
@@ -114,12 +116,12 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Pixilart](https://www.pixilart.com/draw) *(- <img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
-- ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(Windows)*
-- ⭐️ [GraphicsGale](https://graphicsgale.com)  *(Windows)*
-- 💵 [Pro Motion NG](https://www.cosmigo.com) *(Windows)*
-- 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
-- 💵 [Pyxel Edit](https://pyxeledit.com) *(Windows, Mac, Linux)*
-- 💵 [Pixquare](https://www.pixquare.art) *(Mac, iOS)*
+- ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- ⭐️ [GraphicsGale](https://graphicsgale.com)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Pro Motion NG](https://www.cosmigo.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Lightcube](https://www.lightcube.art) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Pyxel Edit](https://pyxeledit.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [Pixquare](https://www.pixquare.art) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 
 > __1__ - You can install Pixelorama on [snapcraft.io](https://snapcraft.io/install/pixelorama/raspbian) from Raspbian or on [pi-apps.io](https://pi-apps.io/install-app/install-pixelorama-on-raspberry-pi/).
 
