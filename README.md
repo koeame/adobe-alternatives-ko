@@ -21,8 +21,8 @@
 <img src="resources/icons/linux.png" alt="img" width="17"/> - Linux
 <img src="resources/icons/ios.png" alt="img" width="17"/> - iOS (Mobile)
 <img src="resources/icons/andrd.png" alt="img" width="17"/> - Android (Mobile)
-<img src="resources/icons/chrome.png" alt="img" width="17"/> - Browser *****
-> *****NOTE: does not specify which exact browsers are tested
+<img src="resources/icons/chrome.png" alt="img" width="17"/> - Browser __*__
+> __*__+NOTE: does not specify which exact browsers are tested
 
 
 **Alternatives to:**
