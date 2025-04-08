@@ -79,17 +79,18 @@ __ORIGINAL DESCRIPTION__:
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Medibang](https://medibangpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [Corel Painter](https://www.painterartist.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows<sup>1</sup> , <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(Windows, Mac)*
-- 💵 [🔒] [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
-- 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(Windows)*
-- 💵 [Procreate](https://procreate.com) *(iOS)*
-- 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(iOS)*
-- 💵 [Infinite Studio](https://www.infinitestudio.art) *(Android, iOS)*
-- 💵 [Realistic Paint Studio](https://realisticpaint.com) *(Windows, Mac, iOS)*
-- 💵 [ArtRage](https://www.artrage.com/artrage) *(Windows, Mac, Android, iOS)*
+- 💵 [Corel Painter](https://www.painterartist.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows<sup>1</sup> , <img src="resources/icons/apple.png" alt="img" width="17"/> <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [🔒] [Clip Studio Paint](https://www.clipstudio.net)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Procreate](https://procreate.com) *(<img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Artstudio Pro](https://apps.apple.com/us/app/artstudio-pro/id1244142051) *(<img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Infinite Studio](https://www.infinitestudio.art) *(Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Realistic Paint Studio](https://realisticpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [ArtRage](https://www.artrage.com/artrage) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Black](https://store.steampowered.com/app/233680/Black_Ink/) [Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 
-> __1__ - The newest version of this software doesn't support the following operating system anymore.
+> __1__ - The newest version of this software doesn't support the marked operating system anymore.
 
 ### Pixel art
 
