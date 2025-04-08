@@ -79,7 +79,7 @@ __ORIGINAL DESCRIPTION__:
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Medibang](https://medibangpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [Corel Painter](https://www.painterartist.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows __*__, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Corel Painter](https://www.painterartist.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows* , <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(Windows, Mac)*
 - 💵 [🔒] [Clip Studio Paint](https://www.clipstudio.net)  *(Windows, Mac, Android, iOS)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(Windows)*
