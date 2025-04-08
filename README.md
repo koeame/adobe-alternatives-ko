@@ -1,3 +1,12 @@
+- <img src="resources/icons/win11.png" alt="img" width="17"/> Windows,
+- <img src="resources/icons/apple.png" alt="img" width="17"/> Mac,
+- <img src="resources/icons/linux.png" alt="img" width="17"/> Linux,
+- <img src="resources/icons/ios.png" alt="img" width="17"/> iOS,
+- <img src="resources/icons/andrd.png" alt="img" width="17"/> Android,
+- <img src="resources/icons/chrome.png" alt="img" width="17"/> Browser,
+- <img src="resources/icons/steam.png" alt="img" width="17"/> Steam,
+- <img src="resources/icons/raspberry.png" alt="img" width="17"/> Raspberry Pi,
+
 <div align="center">
 <h1> Updated Adobe Alternatives </h1>
 
@@ -25,7 +34,7 @@ __ORIGINAL DESCRIPTION__:
 - 🔒 = Subscription for more functions
 - **AI** = Programs using full-fledged AI-Generation (not features!)
 
-**Operating Systems:**
+**Platforms:**
 
 - <img src="resources/icons/win11.png" alt="img" width="17"/> - Windows
 - <img src="resources/icons/apple.png" alt="img" width="17"/> - Mac
@@ -34,6 +43,8 @@ __ORIGINAL DESCRIPTION__:
 - <img src="resources/icons/andrd.png" alt="img" width="17"/> - Android (Mobile)
 - <img src="resources/icons/chrome.png" alt="img" width="17"/> - Browser __*__
 - <img src="resources/icons/steam.png" alt="img" width="17"/> - Steam __**__
+- <img src="resources/icons/raspberry.png" alt="img" width="17"/> - Raspberry Pi
+- <img src="resources/icons/amiga.png" alt="img" width="17"/> - AmigaOS
 > __*__ does not specify which exact browsers are tested
 
 > __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. [ProtonDB](https://www.protondb.com/explore) unfortunately doesn't list software in the database, so the only thing you can refer to is their official website.
@@ -79,7 +90,7 @@ __ORIGINAL DESCRIPTION__:
 - ⭐️ [FireAlpaca](https://firealpaca.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Medibang](https://medibangpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - 💵 [Paintstorm](https://paintstormstudio.com/index.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [Corel Painter](https://www.painterartist.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows<sup>1</sup> , <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Corel Painter](https://www.painterartist.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows<sup>[1]</sup> , <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Rebelle](https://www.escapemotions.com/products/rebelle) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [🔒] [Clip Studio Paint](https://www.clipstudio.net)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [PaintTool SAI](https://www.systemax.jp/en/sai) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
@@ -90,15 +101,16 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [Black](https://store.steampowered.com/app/233680/Black_Ink/) [Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 
-> __1__ - The newest version of this software doesn't support the marked operating system anymore.
+> __1__ - The newest version of Corel Painter (2023) doesn't support the marked operating system anymore.
 
 ### Pixel art
 
 - ✨ (or 💵) [Aseprite](https://www.aseprite.org) *(Windows, Mac, Linux)*
-- ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(Browser, Windows, Mac, Linux, Raspberry Pi)*
-- ✨ [PixiEditor](https://pixieditor.net) *(Windows)*
-- ✨ [LibreSprite](https://libresprite.github.io) *(Windows, Mac, Linux)*
-- ✨ [GrafX2](http://grafx2.chez.com) *(Windows, Linux, Android)*
+- ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/raspberry.png" alt="img" width="17"/> Raspberry Pi<sup>[1]</sup>)*
+- ✨ [PixiEditor](https://pixieditor.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
+- ✨ [LibreSprite](https://libresprite.github.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [GrafX2](http://grafx2.chez.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/amiga.png" alt="img" width="17"/> AmigaOS, 🍁
+ Haiku, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*<sup>[2]</sup>
 - ✨ [Pixilart](https://www.pixilart.com/draw) *(Browser, Android, iOS)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(Windows, Mac)*
@@ -108,6 +120,10 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Lightcube](https://www.lightcube.art) *(Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com) *(Windows, Mac, Linux)*
 - 💵 [Pixquare](https://www.pixquare.art) *(Mac, iOS)*
+
+> __1__ - You can install Pixelorama on [snapcraft.io](https://snapcraft.io/install/pixelorama/raspbian) from Raspbian or on [pi-apps.io](https://pi-apps.io/install-app/install-pixelorama-on-raspberry-pi/).
+
+> __2__ - GrafX2 is a portable pixel art editor, and has just about packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement. 
 
 ## Illustrator
 
