@@ -98,7 +98,7 @@ __ORIGINAL DESCRIPTION__:
 
 ### Pixel art
 
-- ✨ (or 💵) [Aseprite](https://www.aseprite.org) *(Windows, Mac, Linux)*
+- ✨ [or 💵] [Aseprite](https://www.aseprite.org) *(Windows, Mac, Linux)*
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/raspberry.png" alt="img" width="17"/> Raspberry Pi<sup>[1]</sup>)*
 - ✨ [PixiEditor](https://pixieditor.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - ✨ [LibreSprite](https://libresprite.github.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
