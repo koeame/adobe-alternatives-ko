@@ -116,7 +116,7 @@ __ORIGINAL DESCRIPTION__:
 
 > __1__ - You can install Pixelorama on [snapcraft.io](https://snapcraft.io/install/pixelorama/raspbian) from Raspbian or on [pi-apps.io](https://pi-apps.io/install-app/install-pixelorama-on-raspberry-pi/).
 
-> __2__ - GrafX2 is a portable pixel art editing software, and has just about packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement. 
+> __2__ - GrafX2 is a portable pixel art editing software, and has packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement. 
 
 ## Illustrator
 
