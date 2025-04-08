@@ -27,33 +27,33 @@
 
 **Alternatives to:**
 
-- [Photoshop](https://github.com/KenneyNL/Adobe-Alternatives#photoshop)
-- [Illustrator](https://github.com/KenneyNL/Adobe-Alternatives#illustrator)
-- [Animate](https://github.com/KenneyNL/Adobe-Alternatives#animate)
-- [InDesign](https://github.com/KenneyNL/Adobe-Alternatives#indesign)
-- [Substance](https://github.com/KenneyNL/Adobe-Alternatives#substance)
-- [Lightroom](https://github.com/KenneyNL/Adobe-Alternatives#lightroom)
-- [XD](https://github.com/KenneyNL/Adobe-Alternatives#xd)
-- [Premiere](https://github.com/KenneyNL/Adobe-Alternatives#premiere)
-- [Acrobat](https://github.com/KenneyNL/Adobe-Alternatives#acrobat)
-- [Bridge](https://github.com/KenneyNL/Adobe-Alternatives#bridge)
-- [Dreamweaver](https://github.com/KenneyNL/Adobe-Alternatives#dreamweaver)
-- [Audition](https://github.com/KenneyNL/Adobe-Alternatives#audition)
-- [After Effects](https://github.com/KenneyNL/Adobe-Alternatives#after-effects)
+- [Photoshop](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#photoshop)
+- [Illustrator](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#illustrator)
+- [Animate](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#indesign)
+- [InDesign](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#indesign)
+- [Substance](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#substance)
+- [Lightroom](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#lightroom)
+- [XD](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#xd)
+- [Premiere](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#premiere)
+- [Acrobat](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#acrobat)
+- [Bridge](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#bridge)
+- [Dreamweaver](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#dreamweaver)
+- [Audition](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#audition)
+- [After Effects](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#after-effects)
 
 ## Photoshop
 
 ### Photography
 
 - ✨ [GIMP](https://www.gimp.org) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) *(Windows, Mac, Linux)*
-- ⭐️ (💵) [Photopea](https://www.photopea.com) *(Browser)*
-- ⭐️ [Paint.NET](https://www.getpaint.net) *(Windows)*
-- ⭐️ (🔒) [Pixlr](https://pixlr.com) *(Browser)*
-- 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(Mac)*
-- 💵 [PaintShop Pro](https://www.paintshoppro.com) *(Windows)*
-- 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo) *(Windows, Mac, iOS)*
-- 💵 [Photoline](https://www.pl32.com) *(Windows, Mac)*
+- ⭐️ (💵, 🔒) [Sumo Paint](https://sumo.app) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ (💵) [Photopea](https://www.photopea.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ⭐️ [Paint.NET](https://www.getpaint.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- ⭐️ (🔒) [Pixlr](https://pixlr.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- 💵 [Pixelmator Pro](https://www.pixelmator.com/pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [PaintShop Pro](https://www.paintshoppro.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Affinity Photo](https://affinity.serif.com/en-gb/photo) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Photoline](https://www.pl32.com) (*<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Acorn](https://flyingmeat.com/acorn) *(Mac)*
 
 ### Painting
