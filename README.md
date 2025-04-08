@@ -33,9 +33,10 @@ __ORIGINAL DESCRIPTION__:
 - <img src="resources/icons/chrome.png" alt="img" width="17"/> - Browser __*__
 - <img src="resources/icons/chrome.png" alt="img" width="17"/> - Steam __**__
 > __*__ does not specify which exact browsers are tested
+
 > __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. Refer to [ProtonDB](https://www.protondb.com/explore) or their official websites for more information.
 
-> **DISCLAIMER:** Some of the software listed may no longer have support. 
+> **DISCLAIMER:** Some of the software listed may no longer have support or may even possibly break.
 
 
 **Alternatives to:**
