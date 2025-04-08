@@ -5,7 +5,7 @@ This list has been taken from [KenneyNL](https://github.com/KenneyNL) on GitHub 
 
 [You may find the original screenshotted repo here in case it mysteriously gets deleted off the internet. Not likely to happen at all, but eh.](https://web.archive.org/web/20250407014806/https://github.com/KenneyNL/Adobe-Alternatives)
 
-You may also read the original README.md [here](). If you want a read-only version of this repo, you can find it [here]().
+You may also read the original README.md [here](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main/resources/copies). If you want a read-only version of this repo, you can find it [here]().
 
 Credit goes to KenneyNL, XdanielArt, and their contributors for assembling and updating the list. I (ko) am just making it look pretty and adding more to the list. Like the original repo, feel free to open issues, pull requests, and/or make images for easier sharing.
 
