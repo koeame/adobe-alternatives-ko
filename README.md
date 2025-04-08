@@ -1,6 +1,6 @@
 # Updated Adobe Alternatives
 
-> This list has been taken from [KenneyNL](https://github.com/KenneyNL) on GitHub and [@XdanielArt](https://x.com/XdanielArt) on X. The purpose of copying and updating this repo is to save the record and update any information in case the following repo was lost. [You may also find the original screenshotted repo here in case it mysteriously gets deleted off the internet. Not likely to happen at all, but eh.](https://web.archive.org/web/20250407014806/https://github.com/KenneyNL/Adobe-Alternatives)
+<center> This list has been taken from [KenneyNL](https://github.com/KenneyNL) on GitHub and [@XdanielArt](https://x.com/XdanielArt) on X. The purpose of copying and updating this repo is to save the record and update any information in case the following repo was lost. [You may also find the original screenshotted repo here in case it mysteriously gets deleted off the internet. Not likely to happen at all, but eh.](https://web.archive.org/web/20250407014806/https://github.com/KenneyNL/Adobe-Alternatives)</center>
 
 > You may also read the original README.md [here](). If you want a read-only version of this repo, you can find it [here]().
 
@@ -25,7 +25,11 @@
 - <img src="resources/icons/ios.png" alt="img" width="17"/> - iOS (Mobile)
 - <img src="resources/icons/andrd.png" alt="img" width="17"/> - Android (Mobile)
 - <img src="resources/icons/chrome.png" alt="img" width="17"/> - Browser __*__
-> __*__ NOTE: does not specify which exact browsers are tested
+- <img src="resources/icons/chrome.png" alt="img" width="17"/> - Steam __**__
+> __*__ does not specify which exact browsers are tested
+> __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. Refer to [ProtonDB](https://www.protondb.com/explore) or their official websites for more information.
+
+> **DISCLAIMER:** Some of the software listed may no longer have support. 
 
 
 **Alternatives to:**
