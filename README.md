@@ -136,7 +136,7 @@ __ORIGINAL DESCRIPTION__:
 
 - ✨ [SVGcode](https://svgco.de) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ✨ [VTracer](https://www.visioncortex.org/vtracer) *(Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [CR8tracer](http://cr8.netfirms.com/tracer.html) *(Windows)*
+- ✨ [CR8tracer](http://cr8.netfirms.com/tracer.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Vector Magic](https://vectormagic.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 
 ## Animate
