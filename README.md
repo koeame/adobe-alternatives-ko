@@ -271,4 +271,4 @@
 
 # XdanielArt's Image
 
-![xdanielArt's infographic on Adobe Suite alternatives.](https://pbs.twimg.com/media/GPkD9w0W8AA8xjR?format=jpg&name=1250x1250)
+![xdanielArt's infographic on Adobe Suite alternatives.](https://pbs.twimg.com/media/GPkD9w0W8AA8xjR?format=jpg&name=4096x4096)
