@@ -150,7 +150,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Synfig](https://www.synfig.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Glaxnimate](https://glaxnimate.mattbas.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [🔒] [Linearity Move](https://www.linearity.io/move) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [CACANi](https://cacani.sg) *(Windows)*
+- 💵 [CACANi](https://cacani.sg) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [TVPaint](https://tvpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, Android)*
 - 💵 [Toon Boom](https://www.toonboom.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [Clip Studio Paint](https://www.clipstudio.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
@@ -201,9 +201,9 @@ __ORIGINAL DESCRIPTION__:
 ## XD
 
 - ✨ [Penpot](https://penpot.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(Linux)*
+- ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(<img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Lunacy](https://icons8.com/lunacy) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ [🔒] [Figma](https://www.figma.com)  *(Browser, Windows, Mac)*
+- ⭐️ [🔒] [Figma](https://www.figma.com)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Sketch](https://www.sketch.com) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Origami Studio](https://origami.design) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Axure RP](https://www.axure.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
@@ -217,7 +217,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [OpenShot](https://www.openshot.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Shotcut](https://www.shotcut.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [💵] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- 💵 [or 🔒] [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [or 🔒] [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 🔒 [Kapwing](https://www.kapwing.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - 🔒 [CapCut](https://www.capcut.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
