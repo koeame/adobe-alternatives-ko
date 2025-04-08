@@ -226,7 +226,7 @@ __ORIGINAL DESCRIPTION__:
 
 - ✨ [LibreOffice Draw](https://www.libreoffice.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [PDF24](https://www.pdf24.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- ⭐️ [💵, 🔒] [Obsidian](https://obsidian.md/) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)
+- ⭐️ [💵, 🔒] [Obsidian](https://obsidian.md/) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 🔒 [Xodo](https://xodo.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 
@@ -235,7 +235,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Zathura](https://pwmt.org/projects/zathura) *(Linux)*
 - ✨ [Sioyek](https://sioyek.info) *(Windows, Mac, Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(Windows)*
-- ⭐️ [💵, 🔒] [Obsidian](https://obsidian.md/) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)
+- ⭐️ [💵, 🔒] [Obsidian](https://obsidian.md/) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 
 ## Bridge
 
