@@ -109,14 +109,16 @@ __ORIGINAL DESCRIPTION__:
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - ⭐️ [ **AI**  ][Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 💵 [Pro Motion NG](https://www.cosmigo.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Pro Motion NG](https://www.cosmigo.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)* <sup>[3]</sup>
 - 💵 [Lightcube](https://www.lightcube.art) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Pyxel Edit](https://pyxeledit.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [Pixquare](https://www.pixquare.art) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 
 > __1__ - You can install Pixelorama on [snapcraft.io](https://snapcraft.io/install/pixelorama/raspbian) from Raspbian or on [pi-apps.io](https://pi-apps.io/install-app/install-pixelorama-on-raspberry-pi/).
 
-> __2__ - GrafX2 is a portable pixel art editing software and has packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement. 
+> __2__ - GrafX2 is a portable pixel art editing software and has packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement.
+
+> __3__ - Pro Motion NG suggests using Wine for Macintosh and Linux support.
 
 ## Illustrator
 
