@@ -267,12 +267,12 @@ __ORIGINAL DESCRIPTION__:
 
 ### DAWs
 
-- ✨ (💵, 🔒) [Ardour](https://ardour.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [💵, 🔒] [Ardour](https://ardour.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [LMMS](https://lmms.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Cakewalk](https://www.bandlab.com/products/cakewalk)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [GarageBand](https://www.apple.com/mac/garageband) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- ⭐️ (💵) [Tracktion](https://www.tracktion.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ (🔒) [Pro Tools](https://www.avid.com/pro-tools) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- ⭐️ [💵] [Tracktion](https://www.tracktion.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [🔒] [Pro Tools](https://www.avid.com/pro-tools) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Reaper](https://www.reaper.fm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [Logic Pro](https://www.apple.com/logic-pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [Ableton Live](https://www.ableton.com/en/live) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
@@ -292,8 +292,8 @@ __ORIGINAL DESCRIPTION__:
 
 - ✨ [Natron](https://natrongithub.github.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ (💵) [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ (💵) [HitFilm](https://fxhome.com/product/hitfilm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [💵] [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [💵] [HitFilm](https://fxhome.com/product/hitfilm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 
@@ -302,8 +302,8 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Friction](https://friction.graphics)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [AstroFox](https://astrofox.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ (🔒) [Fable](https://www.fable.app)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
-- ⭐️ (🔒) [Linearity Move](https://www.linearity.io/move) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- ⭐️ [🔒] [Fable](https://www.fable.app)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ⭐️ [🔒] [Linearity Move](https://www.linearity.io/move) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [Rive](https://rive.app) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
