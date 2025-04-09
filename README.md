@@ -107,7 +107,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Pixilart](https://www.pixilart.com/draw) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
-- ⭐️ [Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- ⭐️ [ **AI**  ][Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Lightcube](https://www.lightcube.art) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
