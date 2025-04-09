@@ -118,7 +118,7 @@ __ORIGINAL DESCRIPTION__:
 
 > __2__ - GrafX2 is a portable pixel art editing software and has packages for most operating systems, even ones unsupported. Some of the platforms listed are by third-party distributors, in which developers claim they have little to no involvement.
 
-> __3__ - Pro Motion NG suggests using Wine for Macintosh and Linux support.
+> __3__ - Pro Motion NG suggests using Wine for Macintosh and Linux support. You can learn more about this [here](https://www.cosmigo.com/pixel_animation_software/downloads/mac_linux_downloads).
 
 ## Illustrator
 
