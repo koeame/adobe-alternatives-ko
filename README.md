@@ -9,7 +9,7 @@ You may also read the original README.md [here](https://codeberg.org/koeame/adob
 
 Credit goes to KenneyNL, XdanielArt, and their contributors for assembling and updating the list. I (ko) am just making it look pretty and adding more to the list. Like the original repo, feel free to open issues, pull requests, and/or make images for easier sharing.
 
-**DISCLAIMER: Some of the software listed may no longer have support or are possibly broken.**
+**DISCLAIMER: Some of the software listed may no longer have support or are possibly broken, obsolete, or deprecated.**
 
 __ORIGINAL DESCRIPTION__:
 
