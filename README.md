@@ -146,7 +146,7 @@ __ORIGINAL DESCRIPTION__:
 ### General
 
 - ✨ [Tahoma2D](https://tahoma2d.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - ✨ [OpenToonz](https://opentoonz.github.io/e) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Wick Editor](https://www.wickeditor.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ✨ [Synfig](https://www.synfig.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
