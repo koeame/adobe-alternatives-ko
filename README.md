@@ -148,16 +148,18 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Tahoma2D](https://tahoma2d.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - ✨ [OpenToonz](https://opentoonz.github.io/e) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [Wick Editor](https://www.wickeditor.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ✨ [Wick Editor](https://www.wickeditor.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS <sup>[1]</sup> ,<img src="resources/icons/andrd.png" alt="img" width="17"/> Android <sup>[1]</sup> )*
 - ✨ [Synfig](https://www.synfig.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Glaxnimate](https://glaxnimate.mattbas.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [🔒] [Linearity Move](https://www.linearity.io/move) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [CACANi](https://cacani.sg) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 💵 [TVPaint](https://tvpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, Android)*
+- 💵 [TVPaint](https://tvpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 - 💵 [Toon Boom](https://www.toonboom.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [Clip Studio Paint](https://www.clipstudio.net) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Moho](https://moho.lostmarble.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Tumult Hype](https://tumult.com/hype) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+
+> __1__ - Wick Editor writes that the software has support for iOS and Android, however by the time of writing this (April 10th, 2025), the pages on both Google Play and the Apple Store aren't found.
 
 ### Honorable mentions
 
