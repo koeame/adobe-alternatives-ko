@@ -38,7 +38,7 @@ __ORIGINAL DESCRIPTION__:
 - <img src="resources/icons/amiga.png" alt="img" width="17"/> - AmigaOS
 > __*__ does not specify which exact browsers are tested
 
-> __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. [ProtonDB](https://www.protondb.com/explore) unfortunately doesn't list software in the database, so the only thing you can refer to is their official website. [WINE](https://www.winehq.org/) is better suited for emulating software from Windows. 
+> __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. [ProtonDB](https://www.protondb.com/explore) unfortunately doesn't list software in the database, so the only thing you can refer to is their official website. [WINE](https://www.winehq.org/) is better suited for emulating software from Linux. 
 
 
 **Alternatives to:**
