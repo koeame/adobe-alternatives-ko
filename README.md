@@ -159,7 +159,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Moho](https://moho.lostmarble.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Tumult Hype](https://tumult.com/hype) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
-> __1__ - Wick Editor writes that the software has support for iOS and Android, however by the time of writing this (April 10th, 2025), the pages on both Google Play and the Apple Store aren't found.
+> __1__ - Wick Editor writes that the software has support for iOS and Android, however by the time of writing this (April 10th, 2025), the pages are either 404'ed or are not up yet. For now, this footnote will remain until it gets fixed.
 
 ### Honorable mentions
 
