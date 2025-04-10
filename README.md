@@ -107,7 +107,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Pixilart](https://www.pixilart.com/draw) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
-- ⭐️ [ **AI**  ][Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- ⭐️ [ **AI** ][Microsoft Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [GraphicsGale](https://graphicsgale.com)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Pro Motion NG](https://www.cosmigo.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)* <sup>[3]</sup>
 - 💵 [Lightcube](https://www.lightcube.art) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
@@ -124,7 +124,7 @@ __ORIGINAL DESCRIPTION__:
 
 ### General
 
-- ✨ [Inkscape](https://inkscape.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Inkscape](https://inkscape.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)* <sup>[1]</sup>
 - ⭐️ [Boxy SVG](https://boxy-svg.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ [🔒] [Linearity Curve](https://www.linearity.io/curve) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [CorelDRAW](https://www.coreldraw.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
@@ -132,14 +132,14 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Xara Designer](https://www.xara.com/designerpro-plus) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 🔒 [Corel Vector](https://app.corelvector.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 
-
+> __1__ - Inkscape's stable version supports <img src="resources/icons/win11.png" alt="img" width="17"/> Windows only.
 
 ### Live trace
 
 - ✨ [SVGcode](https://svgco.de) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ✨ [VTracer](https://www.visioncortex.org/vtracer) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [CR8tracer](http://cr8.netfirms.com/tracer.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 💵 [Vector Magic](https://vectormagic.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [CR8tracer](https://cr8software.net/tracer.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 💵 [Vector Magic](https://vectormagic.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## Animate
 
