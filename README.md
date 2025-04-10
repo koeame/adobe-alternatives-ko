@@ -94,7 +94,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Black](https://store.steampowered.com/app/233680/Black_Ink/) [Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 
 
-> __1__ - The newest version of Corel Painter (2023) doesn't support the marked operating system anymore as of April 2025.
+> __1__ - The newest version of Corel Painter (2023) doesn't support Windows anymore as of April 2025.
 
 ### Pixel art
 
