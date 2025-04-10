@@ -176,6 +176,8 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [or 🔒, **AI** ] [QuarkXPress](https://www.quark.com/products/quarkxpress) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
+<img src="resources/icons/win11.png" alt="img" width="17"/>
+
 ## Substance
 
 ### Designer
