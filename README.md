@@ -176,8 +176,6 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Affinity Publisher](https://affinity.serif.com/en-gb/publisher) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [or 🔒, **AI** ] [QuarkXPress](https://www.quark.com/products/quarkxpress) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
-<img src="resources/icons/win11.png" alt="img" width="17"/>
-
 ## Substance
 
 ### Designer
@@ -199,12 +197,14 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Darktable](https://www.darktable.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [digiKam](https://www.digikam.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [or 🔒] [Darkroom](https://darkroom.co) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [ **AI** ] [On1](https://www.on1.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [ **AI** ] [On1 Photo RAW](https://www.on1.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 - 💵 [FastRawViewer](https://www.fastrawviewer.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Capture One](https://www.captureone.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Dx0 PhotoLab](https://www.dxo.com/dxo-photolab) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 💵 [Luminar Neo](https://skylum.com/luminar) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 💵 [Aurora HDR](https://skylum.com/aurora-photo-editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [ **AI**  ] [Luminar Neo](https://skylum.com/luminar) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [ **AI**  ] [Aurora HDR](https://skylum.com/aurora-photo-editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
+
+<img src="resources/icons/win11.png" alt="img" width="17"/>
 
 ## XD
 
