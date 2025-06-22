@@ -208,7 +208,7 @@ __ORIGINAL DESCRIPTION__:
 
 ## XD
 
-- ✨ [Penpot](https://penpot.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Penpot](https://penpot.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows <sup>[1]</sup>, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac <sup>[1]</sup>, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux <sup>[1]</sup>)*
 - ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(<img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Lunacy](https://icons8.com/lunacy) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [🔒] [Figma](https://www.figma.com)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
@@ -217,6 +217,8 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Axure RP](https://www.axure.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Principle](https://principleformac.com) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [Framer](https://www.framer.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+
+> __1__ - Penpot is available on self-hosting virtual containers like [Elestio](https://elest.io/) and [Docker](https://docs.docker.com/desktop/).
 
 ## Premiere
 
