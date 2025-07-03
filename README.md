@@ -301,9 +301,10 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Steinberg Wavelab](https://www.steinberg.net/wavelab) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Steinberg Cubase](https://www.steinberg.net/cubase) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 🔒 [Cakewalk Next](https://www.cakewalk.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 🔒 [Cakewalk Sonar](https://www.bandlab.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 🔒 [Cakewalk Next](https://www.cakewalk.com/next) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 🔒 [Cakewalk Sonar](https://www.cakewalk.com/sonar) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 🔒 [Bandlab](https://www.bandlab.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 
 ## After Effects
 
