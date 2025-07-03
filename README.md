@@ -219,6 +219,7 @@ __ORIGINAL DESCRIPTION__:
 - 🔒 [ **AI**  ] [Framer](https://www.framer.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)* <sup>[2]</sup>
 
 > __1__ - Penpot is available on self-hosting virtual containers like [Elestio](https://elest.io/) and [Docker](https://docs.docker.com/desktop/).
+
 > __2__ - It is likely that Framer supports mobile versions, but as of writing this footnote (July 3rd, 2025), there are no pages available for the Apple Store and Google Play. 
 
 ## Premiere
