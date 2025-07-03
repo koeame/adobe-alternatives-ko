@@ -249,7 +249,7 @@ __ORIGINAL DESCRIPTION__:
 ### Reader
 
 - ✨ [Zathura](https://pwmt.org/projects/zathura) *(<img src="resources/icons/linux.png" alt="img" width="17"/> Linux*)
-- ✨ [Sioyek](https://sioyek.info) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, Linux)*
+- ✨ [Sioyek](https://sioyek.info) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [💵, 🔒] [Obsidian](https://obsidian.md/) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 
@@ -263,7 +263,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Netbeans](https://netbeans.apache.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [VSCodium](https://vscodium.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Visual Studio Code](https://code.visualstudio.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ [PageFabric](https://pagefabric-app.com) *(Windows)*
+- ⭐️ [PageFabric](https://pagefabric-app.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [🔒] [Nova](https://nova.app) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [WebStorm](https://www.jetbrains.com/webstorm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 🔒 [PHPStorm](https://www.jetbrains.com/phpstorm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
