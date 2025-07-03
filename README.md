@@ -277,9 +277,12 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Audacity](https://www.audacityteam.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Ocenaudio](https://www.ocenaudio.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [💵] [DaVinci Resolve Fairlight](https://www.blackmagicdesign.com/nl/products/davinciresolve/fairlight) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- 💵 [GoldWave](http://www.goldwave.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 💵 [GoldWave](http://www.goldwave.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)* <sup>[1]</sup>
 - 💵 [iZotope RX](https://www.izotope.com/en/shop/rx.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)* <sup>[2]</sup>
+
+> __1__ - Goldwave uses a multiplatform variant that can run most platforms like browsers and OSes.
+> __2__ - Sound Forge has discontinued MacOS support. [Read more here.](https://www.magix.com/us/music-editing/sound-forge/sound-forge-pro-mac/)
 
 ### DAWs
 
