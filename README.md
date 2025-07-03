@@ -231,8 +231,8 @@ __ORIGINAL DESCRIPTION__:
 - ⭐️ [💵] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [or 🔒] [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 🔒 [Kapwing](https://www.kapwing.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
-- 🔒 [CapCut](https://www.capcut.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
+- 🔒 [ **AI**  ] [Kapwing](https://www.kapwing.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- 🔒 [ **AI**  ] [CapCut](https://www.capcut.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 
 > __1__ - As of writing (July 3rd, 2025), new downloads for Olive are unavailable for the moment. This footnote will be removed once their website is up again.
 
