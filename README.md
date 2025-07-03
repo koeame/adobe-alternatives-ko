@@ -9,7 +9,7 @@ You may also read the original README.md [here](https://codeberg.org/koeame/adob
 
 Credit goes to KenneyNL, XdanielArt, and their contributors for assembling and updating the list. I (ko) am just making it look pretty and adding more to the list. Like the original repo, feel free to open issues, pull requests, and/or make images for easier sharing.
 
-**DISCLAIMER: Some of the software listed may no longer have support or are possibly broken, obsolete, or deprecated.**
+**DISCLAIMER: Some of the software listed may no longer have support or are possibly broken, obsolete, or deprecated. There are marks in these lists of software for any specific instructions, support, or caution.**
 
 __ORIGINAL DESCRIPTION__:
 
@@ -38,7 +38,7 @@ __ORIGINAL DESCRIPTION__:
 - <img src="resources/icons/amiga.png" alt="img" width="17"/> - AmigaOS
 > __*__ does not specify which exact browsers are tested
 
-> __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. [ProtonDB](https://www.protondb.com/explore) unfortunately doesn't list software in the database, so the only thing you can refer to is their official website. [WINE](https://www.winehq.org/) is better suited for emulating software from Linux. 
+> __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. [ProtonDB](https://www.protondb.com/explore) unfortunately doesn't list software in the database, so the only thing you can refer to is their official websites. [WINE](https://www.winehq.org/) is better suited for running software from Linux. 
 
 
 **Alternatives to:**
