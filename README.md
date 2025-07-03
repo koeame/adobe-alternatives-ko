@@ -204,7 +204,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [ **AI**  ] [Luminar Neo](https://skylum.com/luminar) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [ **AI**  ] [Aurora HDR](https://skylum.com/aurora-photo-editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 
-<img src="resources/icons/win11.png" alt="img" width="17"/>
+
 
 ## XD
 
@@ -244,7 +244,7 @@ __ORIGINAL DESCRIPTION__:
 - ⭐️ [PDF24](https://www.pdf24.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [💵, 🔒] [Obsidian](https://obsidian.md/) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 - 💵 [PDF-XChange](https://pdf-xchange.eu/pdf-xchange-editor) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 🔒 [Xodo](https://xodo.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 🔒 [Xodo](https://xodo.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 
 ### Reader
 
