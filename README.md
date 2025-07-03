@@ -211,18 +211,19 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Penpot](https://penpot.app) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows <sup>[1]</sup>, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac <sup>[1]</sup>, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux <sup>[1]</sup>)*
 - ✨ [Draftoola](https://github.com/nitramr/Draftoola) *(<img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ⭐️ [Lunacy](https://icons8.com/lunacy) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ [🔒] [Figma](https://www.figma.com)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- ⭐️ [🔒] [Figma](https://www.figma.com)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac,  <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
 - 💵 [Sketch](https://www.sketch.com) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Origami Studio](https://origami.design) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Axure RP](https://www.axure.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 💵 [Principle](https://principleformac.com) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
-- 🔒 [Framer](https://www.framer.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- 🔒 [ **AI**  ] [Framer](https://www.framer.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)* <sup>[2]</sup>
 
 > __1__ - Penpot is available on self-hosting virtual containers like [Elestio](https://elest.io/) and [Docker](https://docs.docker.com/desktop/).
+> __2__ - It is likely that Framer supports mobile versions, but as of writing this footnote (July 3rd, 2025), there are no pages available for the Apple Store and Google Play. 
 
 ## Premiere
 
-- ✨ [Olive](https://olivevideoeditor.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Olive](https://olivevideoeditor.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)* <sup>[1]</sup>
 - ✨ [Kdenlive](https://kdenlive.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [OpenShot](https://www.openshot.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [Shotcut](https://www.shotcut.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
@@ -231,6 +232,8 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Final Cut Pro](https://www.apple.com/final-cut-pro) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 🔒 [Kapwing](https://www.kapwing.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - 🔒 [CapCut](https://www.capcut.com) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android)*
+
+> __1__ - As of writing (July 3rd, 2025), new downloads for Olive are unavailable for the moment. This footnote will be removed once their website is up again.
 
 ## Acrobat
 
