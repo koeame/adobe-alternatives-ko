@@ -102,8 +102,7 @@ __ORIGINAL DESCRIPTION__:
 - ✨ [Pixelorama](https://orama-interactive.itch.io/pixelorama) *(Browser,  Windows, Mac, Linux, Raspberry Pi <sup>[1]</sup> )*
 - ✨ [PixiEditor](https://pixieditor.net) *( Windows, Steam)*
 - ✨ [LibreSprite](https://libresprite.github.io) *( Windows, Mac, Linux)*
-- ✨ [GrafX2](http://grafx2.chez.com) *( Windows, Mac, Linux, AmigaOS, 🍁
- Haiku, Android)* <sup>[2]</sup>
+- ✨ [GrafX2](http://grafx2.chez.com) *( Windows, Mac, Linux, AmigaOS, Haiku, Android)* <sup>[2]</sup>
 - ✨ [Pixilart](https://www.pixilart.com/draw) *(Browser, Android, iOS)*
 - ⭐️ [Lospec Pixel Editor](https://apps.lospec.com/pixel-editor) *(Browser)*
 - ⭐️ [Pixel Studio](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor) *( Windows, Mac, Steam)*
