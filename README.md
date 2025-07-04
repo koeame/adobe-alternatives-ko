@@ -282,6 +282,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Sound Forge](https://www.magix.com/au/music/sound-forge) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)* <sup>[2]</sup>
 
 > __1__ - Goldwave uses a multiplatform variant that can run most platforms like browsers and OSes.
+
 > __2__ - Sound Forge has discontinued MacOS support. [Read more here.](https://www.magix.com/us/music-editing/sound-forge/sound-forge-pro-mac/)
 
 ### DAWs
