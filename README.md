@@ -91,7 +91,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Infinite Studio](https://www.infinitestudio.art) *(<img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [Realistic Paint Studio](https://realisticpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [Black](https://store.steampowered.com/app/233680/Black_Ink/) [Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
+- 💵 [BlackInk](https://store.steampowered.com/app/233680/Black_Ink/) [Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 
 
 > __1__ - The newest version of Corel Painter (2023) doesn't support Windows anymore as of April 2025.
@@ -303,18 +303,20 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 🔒 [Cakewalk Next](https://www.cakewalk.com/next) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 🔒 [Cakewalk Sonar](https://www.cakewalk.com/sonar) (a.k.a. [Bandlab](https://www.bandlab.com)) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
+- 🔒 [Cakewalk Sonar](https://www.cakewalk.com/sonar) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 
 ## After Effects
 
 ### Compositing and effects
 
 - ✨ [Natron](https://natrongithub.github.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 - ⭐️ [💵] [DaVinci Resolve Fusion](https://www.blackmagicdesign.com/nl/products/davinciresolve/fusion) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ [💵] [HitFilm](https://fxhome.com/product/hitfilm) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ⭐️ [💵] [ **AI** ] [Artlist](https://artlist.io/) <sup>[1]</sup> *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+
+> __1__ - Once called Hitfilm, the software was since discontinued and bought out by Artlist.
 
 ### Motion graphics
 
