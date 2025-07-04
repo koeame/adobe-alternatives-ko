@@ -321,16 +321,16 @@ __ORIGINAL DESCRIPTION__:
 ### Motion graphics
 
 - ✨ [Blender](https://www.blender.org) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ✨ [Friction](https://friction.graphics)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
+- ✨ [Friction](https://friction.graphics)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - ✨ [AstroFox](https://astrofox.io) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
-- ⭐️ [🔒] [Fable](https://www.fable.app)  *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
+- ⭐️ [🔒] Fable (https://www.fable.app) <sup>[1]</sup> *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 - ⭐️ [🔒] [Linearity Move](https://www.linearity.io/move) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
+- 💵 [Final Cut Pro (Motion)](https://www.apple.com/final-cut-pro/motion) *(<img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [Cavalry](https://cavalry.scenegroup.co) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [Rive](https://rive.app) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser, <img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [Jitter](https://jitter.video) *(<img src="resources/icons/chrome.png" alt="img" width="17"/> Browser)*
 
-
+>__1__ - [Fable has been completely discontinued.](https://x.com/fable_motion/status/1846220570377257040)
 
 # XdanielArt's Image
 
