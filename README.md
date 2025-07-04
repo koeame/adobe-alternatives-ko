@@ -1,6 +1,8 @@
 <div align="center">
 <h1> Updated Adobe Alternatives </h1>
 
+This repository was migrated from [Codeberg](codeberg.org/koeame/adobe-alternatives-ko/src/branch/main/README.md), where it was originally made.
+
 This list has been taken from [KenneyNL](https://github.com/KenneyNL) on GitHub and [@XdanielArt](https://x.com/XdanielArt) on X. The purpose of copying and updating this repo is to save the record and update any information in case the following repo was lost.
 
 [You may find the original screenshotted repo here in case it mysteriously gets deleted off the internet. Not likely to happen at all, but eh.](https://web.archive.org/web/20250407014806/https://github.com/KenneyNL/Adobe-Alternatives)
