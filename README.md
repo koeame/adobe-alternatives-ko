@@ -316,7 +316,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [VEGAS Effects](https://www.vegascreativesoftware.com/au/vegas-post) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 - ⭐️ [Unreal Engine](https://www.unrealengine.com) (Motion Graphics Tools) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 
-> __1__ - Once called Hitfilm, the software was since discontinued and bought out by Artlist.
+> __1__ - For those who might ask about Hitfilm, the software was since discontinued and was bought out by Artlist. It has been said that Artlist might be broken for some users. [You can read more here.](https://www.reddit.com/r/Hitfilm/comments/1d4sq6d/psa_hitfilm_is_a_dead_software_information_and/)
 
 ### Motion graphics
 
