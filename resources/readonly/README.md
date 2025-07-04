@@ -27,15 +27,15 @@ __ORIGINAL DESCRIPTION__:
 
 **Platforms:**
 
--  - Windows
-- - Mac
-- - Linux
-- - iOS (Mobile)
-- - Android (Mobile)
-- - Browser __*__
-- - Steam __**__
-- - Raspberry Pi
-- - AmigaOS
+- Windows
+- Mac
+- Linux
+- iOS (Mobile)
+- Android (Mobile)
+- Browser __*__
+- Steam __**__
+- Raspberry Pi
+- AmigaOS
 > __*__ does not specify which exact browsers are tested
 
 > __**__ Steam support does not always indicate full, stable support on operating systems such as Linux. [ProtonDB](https://www.protondb.com/explore) unfortunately doesn't list software in the database, so the only thing you can refer to is their official websites. [WINE](https://www.winehq.org/) is better suited for running software from Linux. 
