@@ -303,8 +303,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Steinberg Nuendo](https://www.steinberg.net/nuendo) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
 - 🔒 [Studio One](https://www.presonus.com/en-US/studio-one.html) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/linux.png" alt="img" width="17"/> Linux)*
 - 🔒 [Cakewalk Next](https://www.cakewalk.com/next) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 🔒 [Cakewalk Sonar](https://www.cakewalk.com/sonar) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
-- 🔒 [Bandlab](https://www.bandlab.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac)*
+- 🔒 [Cakewalk Sonar](https://www.cakewalk.com/sonar) (a.k.a. [Bandlab](https://www.bandlab.com)) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows)*
 
 ## After Effects
 
