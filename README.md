@@ -91,7 +91,7 @@ __ORIGINAL DESCRIPTION__:
 - 💵 [Infinite Studio](https://www.infinitestudio.art) *(<img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [Realistic Paint Studio](https://realisticpaint.com) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
 - 💵 [ArtRage](https://www.artrage.com/artrage) *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/apple.png" alt="img" width="17"/> Mac, <img src="resources/icons/andrd.png" alt="img" width="17"/> Android, <img src="resources/icons/ios.png" alt="img" width="17"/> iOS)*
-- 💵 [BlackInk](https://store.steampowered.com/app/233680/Black_Ink/) [Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
+- 💵 [Black](https://store.steampowered.com/app/233680/Black_Ink/)[Ink](https://blackink.bleank.com/)  *(<img src="resources/icons/win11.png" alt="img" width="17"/> Windows, <img src="resources/icons/steam.png" alt="img" width="17"/> Steam)*
 
 
 > __1__ - The newest version of Corel Painter (2023) doesn't support Windows anymore as of April 2025.
