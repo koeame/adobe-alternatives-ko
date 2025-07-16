@@ -45,19 +45,19 @@ __ORIGINAL DESCRIPTION__:
 
 **Alternatives to:**
 
-- [Photoshop](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#photoshop)
-- [Illustrator](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#illustrator)
-- [Animate](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#indesign)
-- [InDesign](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#indesign)
-- [Substance](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#substance)
-- [Lightroom](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#lightroom)
-- [XD](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#xd)
-- [Premiere](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#premiere)
-- [Acrobat](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#acrobat)
-- [Bridge](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#bridge)
-- [Dreamweaver](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#dreamweaver)
-- [Audition](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#audition)
-- [After Effects](https://codeberg.org/koeame/adobe-alternatives-ko/src/branch/main#after-effects)
+- [Photoshop](https://github.com/koeame/adobe-alternatives-ko/tree/main#photoshop)
+- [Illustrator](https://github.com/koeame/adobe-alternatives-ko/tree/main#illustrator)
+- [Animate](https://github.com/koeame/adobe-alternatives-ko/tree/main#indesign)
+- [InDesign](https://github.com/koeame/adobe-alternatives-ko/tree/main#indesign)
+- [Substance](https://github.com/koeame/adobe-alternatives-ko/tree/main#substance)
+- [Lightroom](https://github.com/koeame/adobe-alternatives-ko/tree/main#lightroom)
+- [XD](https://github.com/koeame/adobe-alternatives-ko/tree/main#xd)
+- [Premiere](https://github.com/koeame/adobe-alternatives-ko/tree/main#premiere)
+- [Acrobat](https://github.com/koeame/adobe-alternatives-ko/tree/main#acrobat)
+- [Bridge](https://github.com/koeame/adobe-alternatives-ko/tree/main#bridge)
+- [Dreamweaver](https://github.com/koeame/adobe-alternatives-ko/tree/main#dreamweaver)
+- [Audition](https://github.com/koeame/adobe-alternatives-ko/tree/main#audition)
+- [After Effects](https://github.com/koeame/adobe-alternatives-ko/tree/main#after-effects)
 
 ## Photoshop
 
